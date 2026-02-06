@@ -8,7 +8,7 @@ sns.set_theme(style="whitegrid")
 
 DATA_PATH = "product_info.csv"
 
-st.set_page_config(page_title="Makeup & Beauty Dashboard - Kalema", layout="wide")
+st.set_page_config(page_title="Makeup & Beauty Dashboard", layout="wide")
 
 
 def clean_products(df):
